@@ -1,0 +1,1 @@
+const Clinician = require('./Clinician')
